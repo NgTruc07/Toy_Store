@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|c:\\users\\admin\\documents\\toystore\\backend\\back_end\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|solutionrelative:back_end\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|c:\\users\\admin\\documents\\toystore\\backend\\back_end\\models\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|solutionrelative:back_end\\models\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|c:\\users\\admin\\documents\\toystore\\backend\\back_end\\datatransferobject\\ordercheckoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|solutionrelative:back_end\\datatransferobject\\ordercheckoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|c:\\users\\admin\\documents\\toystore\\backend\\back_end\\models\\webcodecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|solutionrelative:back_end\\models\\webcodecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|c:\\users\\admin\\documents\\toystore\\backend\\back_end\\models\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|solutionrelative:back_end\\models\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|c:\\users\\admin\\documents\\toystore\\backend\\back_end\\models\\entity\\ordertb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|solutionrelative:back_end\\models\\entity\\ordertb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|c:\\users\\admin\\documents\\toystore\\backend\\back_end\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|solutionrelative:back_end\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|c:\\users\\admin\\documents\\toystore\\backend\\back_end\\models\\entity\\shipmentd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|solutionrelative:back_end\\models\\entity\\shipmentd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|c:\\users\\admin\\documents\\toystore\\backend\\back_end\\models\\entity\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|solutionrelative:back_end\\models\\entity\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|c:\\users\\admin\\documents\\toystore\\backend\\back_end\\datatransferobject\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|solutionrelative:back_end\\datatransferobject\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|c:\\users\\admin\\documents\\toystore\\backend\\back_end\\datatransferobject\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|solutionrelative:back_end\\datatransferobject\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|c:\\users\\admin\\documents\\toystore\\backend\\back_end\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|solutionrelative:back_end\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|c:\\users\\admin\\documents\\toystore\\backend\\back_end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|solutionrelative:back_end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|c:\\users\\admin\\documents\\toystore\\backend\\back_end\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C4A15-B205-9F4C-8D6C-B984E5A166A5}|back_end\\back_end.csproj|solutionrelative:back_end\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebCodeContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Models\\WebCodeContext.cs",
+              "RelativeDocumentMoniker": "back_end\\Models\\WebCodeContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Models\\WebCodeContext.cs",
+              "RelativeToolTip": "back_end\\Models\\WebCodeContext.cs",
+              "ViewState": "AgIAAHQDAAAAAAAAAAAqwIgDAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:16:11.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Models\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "back_end\\Models\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Models\\Entity\\Product.cs",
+              "RelativeToolTip": "back_end\\Models\\Entity\\Product.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwEwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:16:05.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderTb.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Models\\Entity\\OrderTb.cs",
+              "RelativeDocumentMoniker": "back_end\\Models\\Entity\\OrderTb.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Models\\Entity\\OrderTb.cs",
+              "RelativeToolTip": "back_end\\Models\\Entity\\OrderTb.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:16:00.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Models\\Entity\\Address.cs",
+              "RelativeDocumentMoniker": "back_end\\Models\\Entity\\Address.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Models\\Entity\\Address.cs",
+              "RelativeToolTip": "back_end\\Models\\Entity\\Address.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwB8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:15:56.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "back_end\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "back_end\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAAADoBAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:14:01.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderCheckoutDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\DataTransferObject\\OrderCheckoutDto.cs",
+              "RelativeDocumentMoniker": "back_end\\DataTransferObject\\OrderCheckoutDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\DataTransferObject\\OrderCheckoutDto.cs",
+              "RelativeToolTip": "back_end\\DataTransferObject\\OrderCheckoutDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:13:40.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShipmentD.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Models\\Entity\\ShipmentD.cs",
+              "RelativeDocumentMoniker": "back_end\\Models\\Entity\\ShipmentD.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Models\\Entity\\ShipmentD.cs",
+              "RelativeToolTip": "back_end\\Models\\Entity\\ShipmentD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:13:32.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shipment.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Models\\Entity\\Shipment.cs",
+              "RelativeDocumentMoniker": "back_end\\Models\\Entity\\Shipment.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Models\\Entity\\Shipment.cs",
+              "RelativeToolTip": "back_end\\Models\\Entity\\Shipment.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwC0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:13:30.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "back_end\\Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "back_end\\Controllers\\AddressController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAmwJgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:12:39.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\DataTransferObject\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "back_end\\DataTransferObject\\CartItemDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\DataTransferObject\\CartItemDto.cs",
+              "RelativeToolTip": "back_end\\DataTransferObject\\CartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:12:18.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddressDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\DataTransferObject\\AddressDTO.cs",
+              "RelativeDocumentMoniker": "back_end\\DataTransferObject\\AddressDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\DataTransferObject\\AddressDTO.cs",
+              "RelativeToolTip": "back_end\\DataTransferObject\\AddressDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:12:27.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "back_end\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Controllers\\CartController.cs",
+              "RelativeToolTip": "back_end\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:12:37.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "back_end\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\Controllers\\UserController.cs",
+              "RelativeToolTip": "back_end\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAswBUBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:35:19.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\appsettings.json",
+              "RelativeDocumentMoniker": "back_end\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\ToyStore\\backend\\back_end\\appsettings.json",
+              "RelativeToolTip": "back_end\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T10:33:04.223Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 93,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
