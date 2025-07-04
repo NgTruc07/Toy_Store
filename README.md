@@ -24,7 +24,7 @@ Hệ thống cho phép:
 
 ###  Tài Liệu Dự Án
 
--  [Report Đồ Án (DOCX)](https://drive.google.com/file/d/1bpE3fy2Fh4wzEoMXDAe_2M0LSuJs5WMe/view?usp=sharing)
+-  [Report Đồ Án](https://drive.google.com/file/d/1bpE3fy2Fh4wzEoMXDAe_2M0LSuJs5WMe/view?usp=sharing)
 -  [Thiết Kế Giao Diện Figma](https://www.figma.com/design/TSmxiPzNUSbEt82IpW4CmH/TOY-STORE-_-NH%C3%93M-3?node-id=37-16004&t=nwzXvvep5ppsbMsj-1)
   
 ---
