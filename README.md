@@ -109,6 +109,14 @@ Toy_Store/
 
 ##  How to Use
 
+### Login
+#### Admin
+- Mail: tranthib@email.com
+- Pass: adminpass456
+#### User
+- Mail: user2@example.com
+- Pass: pass2
+
 ### Users
 - Register for an account
 - Add products to cart and checkout
@@ -117,14 +125,6 @@ Toy_Store/
 ### Admins
 - Login to admin dashboard
 - Manage products, orders, users, and promotions
-
-### Login
-#### Admin
-- Mail: tranthib@email.com
-- Pass: adminpass456
-#### User
-- Mail: user2@example.com
-- Pass: pass2
 
 ---
 
