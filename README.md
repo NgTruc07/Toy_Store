@@ -1,100 +1,131 @@
-#  Web Code - Hệ Thống Bán Đồ Chơi Trực Tuyến
-
-Dự án **Web Code** là một nền tảng thương mại điện tử mini chuyên bán các sản phẩm đồ chơi dành cho trẻ em. Hệ thống được xây dựng với kiến trúc **fullstack** gồm front-end React, back-end ASP.NET Core và cơ sở dữ liệu SQL Server.
-
----
-
-## Giới Thiệu
-
-Hệ thống cho phép:
-- Người dùng đăng ký, đăng nhập, quản lý giỏ hàng, đặt hàng.
-- Quản trị viên thêm, sửa, xóa sản phẩm, quản lý đơn hàng, người dùng và chương trình khuyến mãi.
-
-###  Tài Liệu Dự Án
-
--  [Report Đồ Án](https://drive.google.com/file/d/1bpE3fy2Fh4wzEoMXDAe_2M0LSuJs5WMe/view?usp=sharing)
--  [Thiết Kế Giao Diện Figma](https://www.figma.com/design/TSmxiPzNUSbEt82IpW4CmH/TOY-STORE-_-NH%C3%93M-3?node-id=37-16004&t=nwzXvvep5ppsbMsj-1)
+**Web Code** is a mini e-commerce platform specializing in selling children's toys.  
+The system is built with a **fullstack architecture** using ReactJS (Front-end), ASP.NET Core (Back-end), and SQL Server (Database).
 
 ---
 
-##  Cài Đặt
+##  Project Overview
 
-###  Yêu Cầu Hệ Thống
+The system supports:
+-  Users: Register, login, manage cart, and place orders.
+-  Admins: Manage products, orders, users, and promotions.
 
-- Node.js >= 14.x
-- .NET SDK >= 6.0
+###  Project Documents
+
+-  [Project Report (Google Drive)](https://drive.google.com/file/d/1bpE3fy2Fh4wzEoMXDAe_2M0LSuJs5WMe/view?usp=sharing)  
+-  [Figma UI Design](https://www.figma.com/design/TSmxiPzNUSbEt82IpW4CmH/TOY-STORE-_-NH%C3%93M-3?node-id=37-16004&t=nwzXvvep5ppsbMsj-1)
+
+---
+
+##  Getting Started
+
+###  System Requirements
+
+- Node.js >= 14.x  
+- .NET SDK >= 6.0  
 - SQL Server >= 2017
 
-###  Cài Đặt Front-End
+---
+
+###  Clone the Repository
+
+```bash
+git clone https://github.com/NgTruc07/Toy_Store.git
+cd Toy_Store
+```
+
+> Default branch: `main`  
+> After cloning, your project structure should look like:
+
+```
+Toy_Store/
+├── front_end/
+├── back_end/
+├── SQL_script/
+├── codeWeb.sln
+└── README.md
+```
+
+---
+
+###  Front-End Setup
 
 ```bash
 cd front_end
 npm install
 npm start
 ```
-Truy cập tại: `http://localhost:3000`
 
-###  Cài Đặt Back-End
+Open your browser at: `http://localhost:3000`
+
+---
+
+###  Back-End Setup
 
 ```bash
 cd back_end
 dotnet restore
 dotnet run
 ```
-API khởi chạy tại: `http://localhost:5166`
 
-> Hoặc mở `codeWeb.sln` trong Visual Studio và nhấn `F5`
+API will run at: `http://localhost:5166`
 
-###  Cài Đặt Cơ Sở Dữ Liệu
+> Or open `codeWeb.sln` with Visual Studio and press `F5`.
+
+---
+
+###  Database Setup
+
+Use SQL Server Management Studio (SSMS) to run the following scripts in order:
 
 ```sql
--- Bước 1: Tạo Database & Bảng
+-- Step 1: Create database and tables
 RUN_DTB.sql
 
--- Bước 2: Thêm dữ liệu mẫu
+-- Step 2: Insert sample data
 data_script.sql
 
--- Bước 3: Cập nhật schema nếu cần
+-- Step 3: Update schema (constraints, banners, etc.)
 update.sql
 ```
 
 ---
 
-##  Cấu Trúc Dự Án
+##  Project Structure
 
 ```
- web_code/
-├── front_end/            # Giao diện người dùng ReactJS
+Toy_Store/
+├── front_end/            # ReactJS Frontend
 ├── back_end/             # ASP.NET Core Web API (.NET 6)
-├── SQL_SCRIPT/           # Tập hợp các script SQL
-│   ├── RUN_DTB.sql       # Tạo database & bảng
-│   ├── data_script.sql   # Dữ liệu mẫu
-│   └── update.sql        # Cập nhật schema & ràng buộc
-└── README.md             # Tài liệu hướng dẫn
+├── SQL_script/           # SQL Scripts
+│   ├── RUN_DTB.sql
+│   ├── data_script.sql
+│   └── update.sql
+├── codeWeb.sln           # Solution file
+└── README.md             # Project guide
 ```
 
 ---
 
-##  Cách Sử Dụng
+##  How to Use
 
-###  Người Dùng
-- Đăng ký tài khoản
-- Thêm sản phẩm vào giỏ và mua hàng
-- Thanh toán đơn hàng
+### Users
+- Register for an account
+- Add products to cart and checkout
+- View order history
 
-###  Quản Trị Viên
-- Đăng nhập trang admin
-- Quản lý sản phẩm, đơn hàng, người dùng, chương trình khuyến mãi
+### Admins
+- Login to admin dashboard
+- Manage products, orders, users, and promotions
 
 ---
 
-##  API Endpoint (http://localhost:5166)
+##  API Endpoint
 
-## 📬 Liên Hệ
+> Local API Base URL:  
+`http://localhost:5166`
 
- Email: `ngtruc7104@gmail.com`  
+---
 
+##  Contact
 
-
-
-
+Email: `ngtruc7104@gmail.com`
