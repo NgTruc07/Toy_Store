@@ -1,4 +1,5 @@
-**Web Code** is a mini e-commerce platform specializing in selling children's toys.  
+Toy_Store is a mini e-commerce web application for selling children's toys. The system supports user registration, product browsing, shopping cart, checkout, and a role-based admin dashboard for managing products, users, and orders.
+
 The system is built with a **fullstack architecture** using ReactJS (Front-end), ASP.NET Core (Back-end), and SQL Server (Database).
 
 ---
@@ -117,12 +118,15 @@ Toy_Store/
 - Login to admin dashboard
 - Manage products, orders, users, and promotions
 
+### Login
+#### Admin
+Mail: tranthib@email.com
+Pass: adminpass456
+#### User
+Mail: user2@example.com
+Pass: pass2
+
 ---
-
-##  API Endpoint
-
-> Local API Base URL:  
-`http://localhost:5166`
 
 ---
 
