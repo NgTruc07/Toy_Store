@@ -120,11 +120,11 @@ Toy_Store/
 
 ### Login
 #### Admin
-Mail: tranthib@email.com
-Pass: adminpass456
+- Mail: tranthib@email.com
+- Pass: adminpass456
 #### User
-Mail: user2@example.com
-Pass: pass2
+- Mail: user2@example.com
+- Pass: pass2
 
 ---
 
